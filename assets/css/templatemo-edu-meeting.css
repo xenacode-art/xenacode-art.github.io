@@ -229,7 +229,7 @@ header
 }
 
 .sub-header .right-icons ul li a {
-  color: #fff;
+  color: rgb(97, 85, 85);
   font-size: 14px;
   transition: all .3s;
 }
@@ -1825,7 +1825,7 @@ responsive
   }
 
   .header-area .main-nav .nav li ul.sub-menu li a {
-    color: #1f272b;
+    color: #34464e;
   }
 
 }
